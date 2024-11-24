@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Do not ignore this `.gitignore` file
+!.gitignore
+
+# Do not ignore the public_html directory
+!public_html/
+!README.md
+
+# Allow all files within the public_html directory
+public_html/**
